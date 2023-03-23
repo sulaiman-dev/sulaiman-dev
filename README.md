@@ -7,8 +7,8 @@
     
 - 🔭 I’m currently working as a **Full Stack Engineer** at  **[Productbox](https://productbox.dev/)**.
   
-- 🌱 I’m currently working on **[Paro](https://useparo.com/)**.
-- 🌱 I’m currently learning **React Native**.
+- 🌱 Working on **[Paro](https://useparo.com/)**.
+- 🌱 Learning **React Native, PostgreSQL, and NestJS**.
 
 - 👨‍💻 Projects that I have worked / working on are available at **[sulaiman-dev.com](https://sulaiman-dev.github.io/)**.
 
