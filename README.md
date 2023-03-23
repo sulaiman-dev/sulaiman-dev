@@ -1,19 +1,20 @@
-<h2 align="center">Hi, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="10px"> I'm Sulaiman</h2>
+<h2 align="center">Hi, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> I'm Sulaiman</h2>
 <h4 align="center">A passionate Javascript developer from Pakistan.</h4>
-
 
 <table>
 <tr>
   <td valign="center">
     
-- 🔭 I’m currently working as a **ReactJs Developer** at  **[iPlex PVT. Limited](https://iplex.co/)**.
-
-- 🌱 I’m currently learning **NodeJs, Postgresql, and NestJs**.
+- 🔭 I’m currently working as a **Full Stack Engineer** at  **[Productbox](https://productbox.dev/)**.
+  
+- 🌱 I’m currently working on **[Paro](https://useparo.com/)**.
+- 🌱 I’m currently learning **React Native**.
 
 - 👨‍💻 Projects that I have worked / working on are available at **[sulaiman-dev.com](https://sulaiman-dev.github.io/)**.
 
-- 🎯 I am looking to Contribute to as many **open source project** as possible.
+<!-- - 🎯 I am looking to Contribute to as many **open source project** as possible. -->
 <!-- - 📝 I regularly write articles on [skblog.com](skblog.com)
+
 
 - 💬 Ask me about **html, css, javascript and react.**
 
@@ -27,12 +28,8 @@
 </tr>
 </table>
 
-
-
-
-
 <!-- ### Blogs posts
-BLOG-POST-LIST:START 
+BLOG-POST-LIST:START
 BLOG-POST-LIST:END  -->
 
 <h3 align="left">Connect with me:</h3>
@@ -51,8 +48,6 @@ BLOG-POST-LIST:END  -->
 <a href="https://medium.com/@medium-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@medium-username" height="30" width="40" /></a>
 <a href="https://discord.gg/discord-invite-code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord-invite-code" height="30" width="40" /></a> -->
 </p>
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -75,5 +70,4 @@ BLOG-POST-LIST:END  -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sulaiman-dev&show_icons=true&locale=en" alt="sulaiman-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sulaiman-dev&" alt="sulaiman-dev" /></p> 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sulaiman-dev&" alt="sulaiman-dev" /></p>
