@@ -21,9 +21,6 @@
 - 📫 How to reach me **sulaimanshinwari830@gmail.com**
 
 - 📄 Know about my experiences [resumelink](resumelink) -->
-<td >
-  <a href="https://app.daily.dev/sulaiman"><img src="https://api.daily.dev/devcards/7bf7791680784ebcaf50c03ae1145b1a.png?r=s8y" width="400" alt="Sulaiman's Dev Card"/></a>
-  </td>
 
 </tr>
 </table>
