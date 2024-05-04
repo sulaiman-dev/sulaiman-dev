@@ -6,11 +6,12 @@
   <td>
     
 - 🔭 I’m currently working as a **Full Stack Engineer** at  **[Productbox](https://productbox.dev/)**.
-  
-- 🌱 Working on **[Paro](https://useparo.com/)**.
+
+- 🌱 Contributing to the development of **[Caspar AI](https://caspar.ai/)** dashboard as a Frontend Engineer.
+- 🌱 Worked on **[Paro](https://useparo.com/)**.
 - 🌱 Learning **React Native, PostgreSQL, and NestJS**.
 
-- 👨‍💻 Projects that I have worked / working on are available at **[sulaiman-dev.com](https://sulaiman-dev.github.io/)**.
+<!-- - 👨‍💻 Projects that I have worked / working on are available at **[sulaiman-dev.com](https://sulaiman-dev.github.io/)**. -->
 
 <!-- - 🎯 I am looking to Contribute to as many **open source project** as possible. -->
 <!-- - 📝 I regularly write articles on [skblog.com](skblog.com)
