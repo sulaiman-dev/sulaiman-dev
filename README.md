@@ -7,7 +7,7 @@
     
 - 🔭 I’m currently working as a **Full Stack Engineer** at  **[Productbox](https://productbox.dev/)**.
 
-- 🌱 Contributing to the development of **[Caspar AI](https://caspar.ai/)** dashboard as a Frontend Engineer.
+- 🌱 Contributing to the development of **[Caspar.AI](https://caspar.ai/)** dashboard as a Frontend Engineer.
 - 🌱 Worked on **[Paro](https://useparo.com/)**.
 - 🌱 Learning **React Native, PostgreSQL, and NestJS**.
 
