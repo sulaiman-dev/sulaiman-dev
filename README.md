@@ -7,8 +7,8 @@
     
 - 🔭 I’m currently working as a **Full Stack Engineer** at  **[Productbox](https://productbox.dev/)**.
 
-- 🌱 Contributing to the development of **[Caspar.AI](https://caspar.ai/)** dashboard as a Frontend Engineer.
-- 🌱 Worked on **[Paro](https://useparo.com/)** and **[PenAndCards](https://www.penandcards.com/)**.
+- 🌱 Contributing to the development of **[Puppydog](https://app.puppydog.io/)** app as a Full Stack Engineer.
+- 🌱 Worked on **[Paro](https://useparo.com/)**, **[PenAndCards](https://www.penandcards.com/)** and **[Caspar.AI](https://caspar.ai/)**.
 - 🌱 Learning **React Native, PostgreSQL, and NestJS**.
 
 <!-- - 👨‍💻 Projects that I have worked / working on are available at **[sulaiman-dev.com](https://sulaiman-dev.github.io/)**. -->
