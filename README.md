@@ -10,6 +10,7 @@
 - 🌱 Contributing to the development of **[Puppydog](https://app.puppydog.io/)** app as a Full Stack Engineer.
 - 🌱 Worked on **[Paro](https://useparo.com/)**, **[PenAndCards](https://www.penandcards.com/)** and **[Caspar.AI](https://caspar.ai/)**.
 - 🌱 Learning **React Native, PostgreSQL, and NestJS**.
+- 🌱 Learning open source collaboration best practices while contributing to **freeCodeCamp's** curriculum.
 
 <!-- - 👨‍💻 Projects that I have worked / working on are available at **[sulaiman-dev.com](https://sulaiman-dev.github.io/)**. -->
 
