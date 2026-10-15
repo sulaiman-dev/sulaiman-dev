@@ -1,17 +1,27 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Sulaiman!;Full+Stack+Engineer;JavaScript+Developer&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&height=60&lines=Hello%2C+I'm+Sulaiman!;Full+Stack+Engineer;Building+Modern+SaaS+Products" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sulaiman-shinwari"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/sulaimanks5"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://fb.com/sulaiman-shinwari"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-  <a href="mailto:sulaimanshinwari830@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/sulaiman-shinwari">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <!-- <a href="https://www.sulaimandev.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a> -->
+  <a href="mailto:sulaimanshinwari830@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://twitter.com/sulaimanks5">
+    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
 </p>
 
 ## 👨‍💻 About Me
 
-I'm a passionate JavaScript developer from Pakistan, specializing in full-stack development with a focus on creating responsive, user-friendly web applications. With a keen eye for detail and a commitment to writing clean, efficient code, I transform ideas into digital reality.
+I'm a Full Stack Engineer from Pakistan with 5+ years of experience building SaaS products, automation workflows, and modern web applications.
+
+Currently, I contribute to the development of Adza AI at Productbox, working across the stack to build scalable user experiences, integrations, and intelligent product features.
 
 <table>
 <tr>
@@ -21,10 +31,10 @@ I'm a passionate JavaScript developer from Pakistan, specializing in full-stack 
     
 - 🔭 Currently working as a **Full Stack Engineer** at **[Productbox](https://productbox.dev/)**
 - 🤖 Building the core platform behind **[Adza AI](https://adza.ai/)**, developing dashboard experiences, AI-powered ad generation workflows, creative automation features, and third-party integrations
-- ⚡ Designing and delivering scalable full-stack solutions using **React, TypeScript, Node.js, PostgreSQL, AWS, and modern web technologies**
+- ⚡ Designing and delivering scalable full-stack solutions with **React, TypeScript, Node.js, PostgreSQL, AWS, and modern web technologies**
 - 💼 Contributed to products including **[Puppydog](https://app.puppydog.io/)** , **[Caspar AI](https://caspar.ai/)** , **[PenAndCards](https://www.penandcards.com/)**, and **[Paro](https://useparo.com/)**
 - 🌍 Recognized among **[freeCodeCamp's Top Open Source Contributors of 2024](https://www.freecodecamp.org/news/freecodecamps-top-open-source-contributors-of-2024/)** through contributions to the freeCodeCamp ecosystem
-- 🚀 Passionate about AI-powered products, workflow automation, developer tooling, and scalable SaaS platforms
+- 🚀 Passionate about SaaS products, automation workflows, developer tooling, and scalable web platforms
   </td>
   <td width="30%">
     <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Developer Gif" width="100%">
@@ -32,21 +42,46 @@ I'm a passionate JavaScript developer from Pakistan, specializing in full-stack 
 </tr>
 </table>
 
+
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+### Cloud & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+### Creative & Automation
+
+<p>
+  <img src="https://img.shields.io/badge/Remotion-000000?style=for-the-badge&logo=remotion&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 ## 📊 GitHub Stats
