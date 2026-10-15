@@ -20,10 +20,11 @@ I'm a passionate JavaScript developer from Pakistan, specializing in full-stack 
 ### 🚀 Professional Experience
     
 - 🔭 Currently working as a **Full Stack Engineer** at **[Productbox](https://productbox.dev/)**
-- 🌱 Contributing to the development of **[Puppydog](https://app.puppydog.io/)** app as a Full Stack Engineer
-- 💼 Worked on **[Paro](https://useparo.com/)**, **[PenAndCards](https://www.penandcards.com/)** and **[Caspar.AI](https://caspar.ai/)**
-- 📚 Learning **React Native, PostgreSQL, and NestJS**
-- 🌟 Learning open source collaboration best practices while contributing to **freeCodeCamp's** curriculum
+- 🤖 Building the core platform behind **[Adza AI](https://adza.ai/)**, developing dashboard experiences, AI-powered ad generation workflows, creative automation features, and third-party integrations
+- ⚡ Designing and delivering scalable full-stack solutions using **React, TypeScript, Node.js, PostgreSQL, AWS, and modern web technologies**
+- 💼 Contributed to products including **[Puppydog](https://app.puppydog.io/)** , **[Caspar AI](https://caspar.ai/)** , **[PenAndCards](https://www.penandcards.com/)**, and **[Paro](https://useparo.com/)**
+- 🌍 Recognized among **[freeCodeCamp's Top Open Source Contributors of 2024](https://www.freecodecamp.org/news/freecodecamps-top-open-source-contributors-of-2024/)** through contributions to the freeCodeCamp ecosystem
+- 🚀 Passionate about AI-powered products, workflow automation, developer tooling, and scalable SaaS platforms
   </td>
   <td width="30%">
     <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Developer Gif" width="100%">
