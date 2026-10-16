@@ -91,24 +91,13 @@ Currently, I contribute to the development of Adza AI at Productbox, working acr
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulaiman-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Sulaiman's Top Languages" height="170" />
 </div>
 
-## 🔥 GitHub Streak
+## 🤝 Let's Connect
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sulaiman-dev&theme=tokyonight&no-frame=true&row=1&column=7" alt="Sulaiman's Trophies" />
-</div>
+Feel free to reach out if you'd like to discuss SaaS products, automation workflows, open-source contributions, or collaboration opportunities.
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sulaiman-dev&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  <a href="https://twitter.com/sulaimanks5">
-    <img src="https://img.shields.io/twitter/follow/sulaimanks5?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</div>
+📧 **Email:** sulaimanshinwari830@gmail.com
 
-## 💡 Let's Connect
+💼 **LinkedIn:** https://linkedin.com/in/sulaiman-shinwari
 
-Have an interesting project idea or want to collaborate? Feel free to reach out for a virtual coffee chat.
-
-<a href="https://www.buymeacoffee.com/sulaimandev" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50">
-</a>
+🐦 **X:** https://twitter.com/sulaimanks5
 
